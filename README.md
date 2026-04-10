@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Web Developer | 💡 Tech Enthusiast | 🎓 RPL Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;I+love+coding+and+design;Always+learning+new+things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;coding+and+design;Always+learning+new+things" />
 </p>
 
 ---
